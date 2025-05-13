@@ -1,0 +1,90 @@
+<!DOCTYPE html><html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>المهندس كامل الحاج علي</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fff;
+            color: #000;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #000;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        header img {
+            height: 100px;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h2 {
+            color: #c5a200;
+        }
+        .info i, .services i {
+            color: #c5a200;
+            margin-left: 10px;
+        }
+        .info a, .services {
+            display: block;
+            margin-bottom: 10px;
+            text-decoration: none;
+            color: #000;
+        }
+        .services ul {
+            list-style: none;
+            padding: 0;
+        }
+        .services li {
+            margin: 10px 0;
+        }
+        footer {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Kamel Construction Logo">
+        <h1>المهندس كامل الحاج علي</h1>
+    </header><section class="info">
+    <h2>معلومات التواصل</h2>
+    <p><i class="fas fa-phone"></i>+963 932 563 616</p>
+    <p><i class="fas fa-phone"></i>+963 956 767 994</p>
+    <p><i class="fas fa-envelope"></i><a href="mailto:kamelalibrahemalhajali@gmail.com">kamelalibrahemalhajali@gmail.com</a></p>
+    <p><i class="fab fa-facebook"></i><a href="https://www.facebook.com/share/1Gz9hnEcmP/" target="_blank">صفحة الفيسبوك</a></p>
+    <p><i class="fab fa-instagram"></i><a href="https://www.instagram.com/alkamel_construction" target="_blank">alkamel_construction</a></p>
+</section>
+
+<section class="services">
+    <h2>الخدمات المقدمة</h2>
+    <ul>
+        <li><i class="fas fa-check"></i>تقييم الموقع ودراسة الجدوى و وضع الجدول الزّمني</li>
+        <li><i class="fas fa-check"></i>أعمال تجهيز الموقع (إزالة الرّدم، تنظيف الموقع)</li>
+        <li><i class="fas fa-check"></i>أعمال التّشييد الأساسيّة</li>
+        <li><i class="fas fa-check"></i>أعمال الميكانيك والكهرباء والسّباكة (MEP)</li>
+        <li><i class="fas fa-check"></i>أنظمة التّدفئة والتّهوية وتكييف الهواء (HVAC)</li>
+        <li><i class="fas fa-check"></i>أعمال الحدادة والنّجارة والألمنيوم</li>
+        <li><i class="fas fa-check"></i>أعمال التّشطيب (البلاط، الجبس بورد، ورق الجدران، الدّهان)</li>
+        <li><i class="fas fa-check"></i>خدمات ما بعد البناء (فحص الجودة - معالجة العيوب و التّسليم النّهائي - خدمات الضّمان والصّيانة)</li>
+    </ul>
+</section>
+
+<footer>
+    &copy; 2025 المهندس كامل الحاج علي - جميع الحقوق محفوظة
+</footer>
+
+</body>
+</html>
